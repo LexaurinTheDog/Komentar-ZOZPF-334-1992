@@ -189,6 +189,8 @@ Odstavec 1 (vložen zákonem č. 183/2024 Sb.) stanoví povinnost **každého** 
 
 Rozdělení kontrolní působnosti je tedy dvojí: **ORP** u písm. b) až d) a odst. 3, **inspekce** u písm. a), e) a f).
 
+**Soukromoprávní odpovědnost za škodu.** Místní karta **NS 25 Cdo 3811/2017** (kat. A) se týká povinností dnešního odst. 2: cituje je jako „§ 3 odst. 1“, protože zákon č. 183/2024 Sb. vložil nový odstavec 1 a „Dosavadní odstavce 1 až 7 se označují jako odstavce 2 až 8“. Podle karty za škodu způsobenou před 1. 1. 2014 porušením této prevenční povinnosti „odpovídá zemědělský podnikatel podle § 420 odst. 1 obč. zák“. Veřejnoprávní postih (§ 20, § 20a) tedy nevylučuje odpovědnost za škodu vůči poškozenému. Pro škody vzniklé od 1. 1. 2014 karta nic neříká; podle kterého ustanovení občanského zákoníku č. 89/2012 Sb. se taková odpovědnost posoudí, je výkladová otázka.
+
 #### Povinnost užívat v souladu s druhem pozemku (odst. 3)
 
 Vlastník nebo jiná oprávněná osoba musí půdu **užívat nebo udržovat v souladu s charakteristikou druhu pozemku** podle katastrálního zákona (pozn. 18). Povinnost tedy dopadá i na pouhou údržbu – postačí, aby pozemek nezarůstal a neztrácel charakter evidovaného druhu. Výjimky: a) užívání v souladu se souhlasem s **dočasným odnětím**; b) hospodaření uživatele **dílu půdního bloku** v souladu s evidencí půdy podle zákona o zemědělství (evidence půdy tak může legitimně odrážet jinou kulturu než katastr); c) hospodaření na pozemku po **pozemkových úpravách** užívaném původním způsobem do realizace společného zařízení podle zákona o pozemkových úpravách a pozemkových úřadech. Porušení je přestupkem (§ 20 odst. 2 písm. d), § 20a odst. 2 písm. d); pokuta do 50 000 Kč, resp. 500 000 Kč).

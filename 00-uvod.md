@@ -2,7 +2,7 @@
 
 > **Znění k 1. říjnu 2025** (dokument e-Sbírky `SB-1992-00334_2025-10-01`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Výklad jednotlivých ustanovení vychází z lokálně uloženého konsolidovaného znění zákona, z textu poznámek pod čarou, na které zákon odkazuje, a ze souvisejících předpisů v místní kopii e-Sbírky (zejména prováděcích vyhlášek a novel). Repozitář k datu zpracování **neobsahuje místní judikaturní karty** k tomuto zákonu; komentář proto neuvádí žádné spisové značky soudních rozhodnutí a tam, kde by výklad potřeboval oporu rozhodovací praxe, výslovně pracuje s formulací „výkladová otázka“. Kdekoli doprovodné soubory (ZASADY.md, PRAVNI-MODALITY.md) odkazují na judikaturu, jde o poznámku o její absenci v místních pramenech, nikoli o citaci konkrétního rozhodnutí.
+> **Metodická poznámka:** Výklad jednotlivých ustanovení vychází z lokálně uloženého konsolidovaného znění zákona, z textu poznámek pod čarou, na které zákon odkazuje, a ze souvisejících předpisů v místní kopii e-Sbírky (zejména prováděcích vyhlášek a novel). Složka [judikatura/](judikatura/README.md) obsahuje **jedinou místní judikaturní kartu**, doplněnou strojově při publikaci z místních zdrojů: [NS 25 Cdo 3811/2017](judikatura/NS-25-Cdo-3811-2017.md) (Nejvyšší soud, 29. 5. 2018, kat. A), zařazenou k § 3. Karta se týká soukromoprávní odpovědnosti za škodu způsobenou před 1. 1. 2014 porušením prevenční povinnosti k ochraně zemědělského půdního fondu podle § 420 odst. 1 občanského zákoníku z roku 1964 (č. 40/1964 Sb.); cituje „§ 3 odst. 1“ v číslování před novelou zákonem č. 183/2024 Sb., věcně jde o povinnosti dnešního § 3 odst. 2. Ostatní ustanovení zákona místní judikaturu nemají a autorský výklad ostatních ustanovení z této karty nevychází; tam, kde by výklad potřeboval oporu rozhodovací praxe, výslovně pracuje s formulací „výkladová otázka“.
 
 ---
 
@@ -81,7 +81,7 @@ Doprovodné soubory [ZASADY.md](ZASADY.md) a [PRAVNI-MODALITY.md](PRAVNI-MODALIT
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** podle konsolidace k 1. 10. 2025, pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika a H. Praktický závěr s kontrolním checklistem.
 - Kazuistiky jsou **modelové situace** sloužící k ilustraci aplikace, nikoli popisy skutečných řízení.
-- Komentář neuvádí spisové značky soudních rozhodnutí, protože místní prameny repozitáře k zákonu žádnou judikaturu neobsahují; sporná místa jsou označena jako výkladové otázky.
+- Judikaturu z místních zdrojů zastupuje jediná strojově doplněná karta [NS 25 Cdo 3811/2017](judikatura/NS-25-Cdo-3811-2017.md) k § 3 (odpovědnost za škodu způsobenou před 1. 1. 2014 podle § 420 odst. 1 obč. zák. z roku 1964). U ostatních ustanovení komentář spisové značky soudních rozhodnutí neuvádí, protože k nim místní prameny judikaturu neobsahují; sporná místa jsou označena jako výkladové otázky.
 - U ustanovení měněných novelami (zejména zákonem č. 183/2024 Sb.) je třeba vždy ověřit přechodná ustanovení příslušné novely a rozhodný právní stav (srov. § 11 odst. 3).
 
 ---

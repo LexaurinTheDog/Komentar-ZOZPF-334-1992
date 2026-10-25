@@ -13,7 +13,7 @@ Každá z třinácti vrstev odděluje místní zjištění, autorský test a doh
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení.
 
-Místní korpus pro tuto mapu tvoří **úvod a 5 kapitol**, **44 samostatně nadepsaných ustanovení** (43 paragrafových jednotek § 1 až § 26 s vloženými paragrafy a příloha se sazebníkem odvodů), **7 zásad** v [ZASADY.md](ZASADY.md), **37 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) a **0 místních karet rozhodnutí**. Rozhodným zněním komentáře je konsolidace e-Sbírky k 1. 10. 2025 (dokument `SB-1992-00334_2025-10-01`). Místní důvodová zpráva v repozitáři není; historické a teleologické argumenty proto stojí jen na textu zákona, na systematice a na výkladu v kapitolách. Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
+Místní korpus pro tuto mapu tvoří **úvod a 5 kapitol**, **44 samostatně nadepsaných ustanovení** (43 paragrafových jednotek § 1 až § 26 s vloženými paragrafy a příloha se sazebníkem odvodů), **7 zásad** v [ZASADY.md](ZASADY.md), **37 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) a **1 místní kartu rozhodnutí** ve složce [judikatura/](judikatura/README.md) (NS 25 Cdo 3811/2017 k § 3, doplněná strojově při publikaci z místních zdrojů). Rozhodným zněním komentáře je konsolidace e-Sbírky k 1. 10. 2025 (dokument `SB-1992-00334_2025-10-01`). Místní důvodová zpráva v repozitáři není; historické a teleologické argumenty proto stojí jen na textu zákona, na systematice a na výkladu v kapitolách. Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -293,11 +293,15 @@ Reprezentativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje složku `judikatura/` ani žádnou místní kartu rozhodnutí; složka se doplní strojově později. Soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly obsahují **0 spisových značek**. Komentář tuto mezeru přiznává výslovně: [úvod](00-uvod.md): „Repozitář k datu zpracování neobsahuje místní judikaturní karty k tomuto zákonu“ a dále „Komentář neuvádí spisové značky soudních rozhodnutí, protože místní prameny repozitáře k zákonu žádnou judikaturu neobsahují; sporná místa jsou označena jako výkladové otázky.“ Také [ZASADY.md](ZASADY.md) uvádí, že zásady jsou dovozeny z textu zákona, jeho systematiky a výslovně vyjádřeného účelu, nikoli z judikatorních tezí.
+Složka [judikatura/](judikatura/README.md) obsahuje **1 místní kartu rozhodnutí**, doplněnou strojově při publikaci z místních zdrojů: [NS 25 Cdo 3811/2017](judikatura/NS-25-Cdo-3811-2017.md) (Nejvyšší soud, 29. 5. 2018, kat. A). Karta je vložena do výkladu k [§ 3](01-zpf-zmena-vyuziti-zasady-ochrany.md); ostatní ustanovení (42 paragrafových jednotek a příloha) místní judikaturu nemají a soubor zásad na kartu neodkazuje. Úvod to shrnuje tak, že „autorský výklad ostatních ustanovení z této karty nevychází“.
 
-Místní korpus neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se proto nesmí domýšlet.
+*Co karta říká.* Její právní věta zní: „Za škodu způsobenou před 1. 1. 2014 v důsledku porušení prevenční povinnosti k ochraně zemědělského půdního fondu (§ 3 odst. 1 zákona č. 334/1992 Sb.) odpovídá zemědělský podnikatel podle § 420 odst. 1 obč. zák“. Jde o soukromoprávní odpovědnost za škodu podle občanského zákoníku z roku 1964 (č. 40/1964 Sb.).
 
-**Priority pro budoucí doplnění složky judikatura/.** Otázky, u nichž místní komentář výslovně pracuje s formulací výkladové otázky a kde by rozhodovací praxe měla největší dosah (seznam je redakční plán, nikoli tvrzení o existenci rozhodnutí):
+*Na které ustanovení dopadá.* Karta cituje § 3 odst. 1 v číslování před novelou zákonem č. 183/2024 Sb. Ta vložila nový odstavec 1 a podle výkladu k § 3 platí: „Dosavadní odstavce 1 až 7 se označují jako odstavce 2 až 8“. Věcně se karta proto vztahuje k povinnostem dnešního **§ 3 odst. 2**, nikoli k novému § 3 odst. 1. Při práci s kartou je nutné číslování vždy převést.
+
+*Hranice použitelnosti.* Karta řeší jen škody způsobené před 1. 1. 2014 a jen odpovědnost podle § 420 odst. 1 obč. zák. z roku 1964. Výklad k § 3 výslovně dodává: „Pro škody vzniklé od 1. 1. 2014 karta nic neříká“. Karta neobsahuje nic o veřejnoprávních sankcích (§ 20, § 20a), opatřeních k nápravě, souhlasu s odnětím ani o odvodech; judikatorní závěr k těmto institutům se z ní nesmí dovozovat.
+
+**Priority pro budoucí doplnění složky judikatura/.** Otázky, u nichž místní komentář výslovně pracuje s formulací výkladové otázky a kde by rozhodovací praxe měla největší dosah (seznam je redakční plán, nikoli tvrzení o existenci rozhodnutí). Karta NS 25 Cdo 3811/2017 žádný z těchto okruhů nepokrývá; všechny zůstávají otevřené:
 
 | Okruh | Místní uzel | Proč je praxe potřeba |
 |---|---|---|
@@ -316,9 +320,10 @@ Místní korpus neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorn
 - U každého rozhodnutí, které bude do složky doplněno, oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
 - Ověřte, zda soud vykládal stejné znění (zejména před a po novele zákonem č. 183/2024 Sb.), stejný právní problém a zda závěr nebyl později odlišen nebo překonán.
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech.
-- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability; do doplnění karet ponechte formulaci „výkladová otázka“.
+- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability; u ustanovení bez karty ponechte formulaci „výkladová otázka“.
+- U karty NS 25 Cdo 3811/2017 vždy převeďte číslování (§ 3 odst. 1 před novelou = dnešní § 3 odst. 2) a rozlište, zda škoda vznikla před 1. 1. 2014.
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady a judikatorní teze](ZASADY.md); [úvod — metodická poznámka](00-uvod.md); složka judikatura/ zatím není (doplní se strojově)
+**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady a judikatorní teze](ZASADY.md); [úvod — metodická poznámka](00-uvod.md); [§ 3 — soukromoprávní odpovědnost za škodu](01-zpf-zmena-vyuziti-zasady-ochrany.md); [judikatura/](judikatura/README.md); [karta NS 25 Cdo 3811/2017](judikatura/NS-25-Cdo-3811-2017.md)
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
@@ -347,7 +352,7 @@ Reprezentativní místní formulace:
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu (oddíly G. kapitol pracují se vzorcem protiargument → neutralizace → slabé místo).
-- U každé varianty uveďte textový, systematický, historický a účelový argument; místní judikatorní argument zatím chybí.
+- U každé varianty uveďte textový, systematický, historický a účelový argument; místní judikatorní argument k žádné z uvedených sporných otázek není (jediná místní karta se týká odpovědnosti za škodu podle § 3).
 - Porovnejte praktické následky variant (příslušnost, odvody, platnost smlouvy, vklad) a vysvětlete, který argument převáží a za jakých předpokladů.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
@@ -433,7 +438,7 @@ Aplikační vrstvu lze ověřit zejména v:
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **úvodem a 5 kapitolami**. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- repozitář neobsahuje místní karty rozhodnutí; složka judikatura/ se doplní strojově později a soubor zásad proto neposkytuje odkaz na místní kartu s citovatelnou tezí;
+- složka judikatura/ obsahuje jen 1 strojově doplněnou kartu (NS 25 Cdo 3811/2017 k § 3, škody před 1. 1. 2014 podle § 420 odst. 1 obč. zák. z roku 1964); ostatní ustanovení místní kartu nemají a soubor zásad na kartu neodkazuje;
 - repozitář neobsahuje místní důvodovou zprávu; historický výklad (zejména k novele zákonem č. 183/2024 Sb.) nemá místní oporu;
 - u § 22 odst. 1 písm. e) nebyl lokálně identifikován prováděcí předpis;
 - citační blok § 26 obsahuje jen označení paragrafu, text účinnosti je doplněn ve výkladu;
@@ -457,8 +462,8 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod](00-uvod.md) | ano | nenalezeno | ano | jen poznámka o absenci | ano | ano | nenalezeno | ano |
-| [Kapitola 1](01-zpf-zmena-vyuziti-zasady-ochrany.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Úvod](00-uvod.md) | ano | nenalezeno | ano | jen metodická poznámka o 1 kartě | ano | ano | nenalezeno | ano |
+| [Kapitola 1](01-zpf-zmena-vyuziti-zasady-ochrany.md) | ano | ano | ano | 1 karta (§ 3) | ano | ano | ano | ano |
 | [Kapitola 2](02-ochrana-zpf-pri-cinnostech-odneti.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 | [Kapitola 3](03-odvody-statni-sprava-prestupky.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 | [Kapitola 4](04-priloha-sazebnik-odvodu.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
@@ -466,7 +471,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál rozhodovací praxe nebyl nalezen v žádné kapitole; úvod pouze uvádí její absenci v místních pramenech.
+- **Judikatura:** jediný místní judikatorní údaj je strojově doplněná karta NS 25 Cdo 3811/2017 ve výkladu k § 3 v kapitole 1 (soukromoprávní odpovědnost za škodu před 1. 1. 2014); kapitoly 2 až 5 judikaturu neobsahují a úvod kartu jen popisuje v metodické poznámce.
 - **Důkazy a aplikace v úvodu:** úvod je přehledový a kazuistiku ani důkazní rozbor neobsahuje; to odpovídá jeho funkci.
 - **Historický výklad:** chybí místní důvodová zpráva.
 
@@ -492,7 +497,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 | Proces | příslušnost (1 ha, NP, inspekce), forma souhlasu, sled kroků, lhůta, přezkum | seznam paragrafů bez časové osy |
 | Důkazy | znak, skutečnost, důkaz, břemeno, nejistota | nahrazení skutku právním názorem |
 | Následky | primární norma, porušení, přestupek, náprava, odvod, ochrana | směšování sankce, nápravy a odvodu |
-| Judikatura | ratio, kontext, dosah, vývoj linie; do doplnění karet výslovná mezera | izolovaná právní věta bez skutků nebo domyšlené rozhodnutí |
+| Judikatura | ratio, kontext, dosah, vývoj linie; přečíslování § 3 u karty NS 25 Cdo 3811/2017; u ustanovení bez karty výslovná mezera | izolovaná právní věta bez skutků nebo domyšlené rozhodnutí |
 | Sporné výklady | nejsilnější varianty a důvod preference | potlačení rozumného protiargumentu |
 | Vazby | specialita, subsidiarita, přednost, ústavní limit | pouhý seznam souvisejících předpisů |
 | Aplikace | skutky, pravidlo, důkazy, subsumpce, výsledek | příklad bez výslovného naplnění znaků |
@@ -503,7 +508,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 1. Text zákona, závěr soudu, převzatou doktrínu a vlastní syntézu vždy oddělte.
 2. Každé významné tvrzení musí být dohledatelné v místním prameni nebo označené jako otevřená otázka.
 3. Míru jistoty vyjádřete jako ustálený závěr, převažující výklad, spornou otázku nebo autorský návrh.
-4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; dokud místní karty chybějí, žádný judikatorní závěr neuvádějte.
+4. Judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci; u ustanovení bez místní karty žádný judikatorní závěr neuvádějte a kartu NS 25 Cdo 3811/2017 nepoužívejte mimo soukromoprávní odpovědnost za škodu vzniklou před 1. 1. 2014.
 5. Neuvádějte pouze výsledek; zpřístupněte argumentační cestu tak, aby ji bylo možné přezkoumat.
 
 ## Kontrola před publikací

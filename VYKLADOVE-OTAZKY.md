@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva ani místní karty rozhodnutí v repozitáři zatím nejsou; dokument proto nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva v repozitáři není a složka judikatura/ obsahuje jen 1 strojově doplněnou kartu rozhodnutí (NS 25 Cdo 3811/2017 k § 3); dokument proto nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -112,7 +112,7 @@ V řízení na žádost nese riziko neprokázání žadatel (neúplná žádost,
 
 **Jak ji řešit.** Pro každý znak normy vytvořte řádek: rozhodná skutečnost, kdo ji tvrdí, dostupný důkaz, kdo důkaz opatřuje, míra přesvědčení a následek neprokázání. Právní argument nenahrazuje skutkové zjištění a zákonnou domněnku nelze dovodit jen z obtížného dokazování; ani katastrální druh pozemku není u § 1 nevyvratitelným důkazem náležitosti do ZPF.
 
-**Místní opora.** [§ 3, § 3a, § 3b, § 3d](01-zpf-zmena-vyuziti-zasady-ochrany.md); [§ 9](02-ochrana-zpf-pri-cinnostech-odneti.md); [§ 11b, § 18](03-odvody-statni-sprava-prestupky.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); místní judikatura zatím není (složka judikatura/ se doplní strojově)
+**Místní opora.** [§ 3, § 3a, § 3b, § 3d](01-zpf-zmena-vyuziti-zasady-ochrany.md); [§ 9](02-ochrana-zpf-pri-cinnostech-odneti.md); [§ 11b, § 18](03-odvody-statni-sprava-prestupky.md); [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [místní modality](PRAVNI-MODALITY.md); místní karta k uzlům dokazování není ([judikatura/](judikatura/README.md) obsahuje jen kartu NS 25 Cdo 3811/2017 k odpovědnosti za škodu podle § 3)
 
 ## 7. Jaké právní následky, sankce a prostředky ochrany navazují?
 
@@ -149,12 +149,13 @@ Doslovný výklad omezují zejména tato místně formulovaná pravidla: neurči
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Repozitář zatím neobsahuje složku judikatura/ ani žádnou kartu rozhodnutí (**0** karet); v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací. Složka judikatura/ se doplní strojově později. Úvod komentáře to uvádí výslovně a dodává, že „tam, kde by výklad potřeboval oporu rozhodovací praxe, výslovně pracuje s formulací“ výkladové otázky.
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Okruhy s nejvyšší prioritou pro doplnění karet uvádí vrstva 9 [hloubkového výkladu](HLOUBKOVY-VYKLAD.md) (funkční pojetí ZPF, výrazná převaha veřejného zájmu, cílový záměr, následek porušení § 3d, forma souhlasu podle § 2 a potvrzení o ukončení rekultivace, souběh přestupků).
+Složka [judikatura/](judikatura/README.md) obsahuje **1** kartu rozhodnutí, doplněnou strojově při publikaci z místních zdrojů: [NS 25 Cdo 3811/2017](judikatura/NS-25-Cdo-3811-2017.md) (Nejvyšší soud, 29. 5. 2018, kat. A), vloženou do výkladu k [§ 3](01-zpf-zmena-vyuziti-zasady-ochrany.md). Soubor zásad na kartu neodkazuje a ostatní ustanovení místní judikaturu nemají; úvod výslovně uvádí, že „autorský výklad ostatních ustanovení z této karty nevychází“, a dodává, že „tam, kde by výklad potřeboval oporu rozhodovací praxe, výslovně pracuje s formulací“ výkladové otázky.
+Karta obsahuje jedinou právní větu: „Za škodu způsobenou před 1. 1. 2014 v důsledku porušení prevenční povinnosti k ochraně zemědělského půdního fondu (§ 3 odst. 1 zákona č. 334/1992 Sb.) odpovídá zemědělský podnikatel podle § 420 odst. 1 obč. zák“. Odkaz na § 3 odst. 1 je v číslování před novelou zákonem č. 183/2024 Sb.; podle výkladu k § 3 „Dosavadní odstavce 1 až 7 se označují jako odstavce 2 až 8“, takže věcně jde o povinnosti dnešního **§ 3 odst. 2**.
+Hranice karty jsou úzké: týká se jen škod způsobených před 1. 1. 2014 a odpovědnosti podle § 420 odst. 1 občanského zákoníku z roku 1964 (č. 40/1964 Sb.). Výklad k § 3 uvádí, že „Pro škody vzniklé od 1. 1. 2014 karta nic neříká“. O veřejnoprávních sankcích, opatřeních k nápravě, souhlasu s odnětím ani o odvodech karta nic neobsahuje. Okruhy s nejvyšší prioritou pro doplnění karet podle vrstvy 9 [hloubkového výkladu](HLOUBKOVY-VYKLAD.md) proto zůstávají nepokryté (funkční pojetí ZPF, výrazná převaha veřejného zájmu, cílový záměr, následek porušení § 3d, forma souhlasu podle § 2 a potvrzení o ukončení rekultivace, souběh přestupků).
 
-**Jak ji řešit.** U každého rozhodnutí, které bude do složky doplněno, oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (před nebo po novele zákonem č. 183/2024 Sb.) a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; do doplnění karet chybějící místní judikaturu označte jako mezeru.
+**Jak ji řešit.** U karty NS 25 Cdo 3811/2017 nejprve převeďte číslování (§ 3 odst. 1 před novelou = dnešní § 3 odst. 2) a určete, zda škoda vznikla před 1. 1. 2014; pro pozdější škody ani pro veřejnoprávní instituty kartu nepoužívejte. U každého rozhodnutí, které bude do složky doplněno, oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (před nebo po novele zákonem č. 183/2024 Sb.) a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo; u ustanovení bez karty chybějící místní judikaturu označte jako mezeru.
 
-**Místní opora.** [úvod — metodická poznámka](00-uvod.md); [místní zásady a citace](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md); přehled místní judikatury zatím není (doplní se strojově)
+**Místní opora.** [úvod — metodická poznámka](00-uvod.md); [§ 3 — soukromoprávní odpovědnost za škodu](01-zpf-zmena-vyuziti-zasady-ochrany.md); [judikatura/](judikatura/README.md); [karta NS 25 Cdo 3811/2017](judikatura/NS-25-Cdo-3811-2017.md); [místní zásady a citace](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -193,7 +194,7 @@ Každé ze 44 nadepsaných ustanovení má oddíl **G. Protiargumenty a rizika**
 - [§ 23](05-spolecna-prechodna-zaverecna.md) — rozhodné znění § 11 při úpravě starých souhlasů.
 - [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md) — tabulka deseti sporných otázek s variantami.
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument (místní judikatorní argument zatím chybí), praktický následek a důvod, proč jeden převáží. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument (místní judikatorní argument k těmto sporným otázkám není; jediná místní karta se týká odpovědnosti za škodu podle § 3), praktický následek a důvod, proč jeden převáží. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [místní kapitoly](01-zpf-zmena-vyuziti-zasady-ochrany.md); [kapitola 2](02-ochrana-zpf-pri-cinnostech-odneti.md); [kapitola 3](03-odvody-statni-sprava-prestupky.md); [kapitola 4](04-priloha-sazebnik-odvodu.md); [kapitola 5](05-spolecna-prechodna-zaverecna.md); [místní zásady](ZASADY.md)
 
@@ -210,16 +211,16 @@ Aplikační vrstvu lze ověřit zejména v: [01](01-zpf-zmena-vyuziti-zasady-och
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **úvod a 5** kapitol se 44 nadepsanými ustanoveními a **0** karet rozhodnutí, doplněných samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **úvod a 5** kapitol se 44 nadepsanými ustanoveními a **1** kartou rozhodnutí (NS 25 Cdo 3811/2017 k § 3, doplněná strojově při publikaci), doplněných samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi; složka judikatura/ se doplní strojově později;
+- místní judikatura je omezena na 1 kartu k § 3 (soukromoprávní odpovědnost za škodu před 1. 1. 2014 podle § 420 odst. 1 obč. zák. z roku 1964); ostatní ustanovení citovatelnou judikatorní tezi nemají;
 - v repozitáři není místní důvodová zpráva;
 - u § 22 odst. 1 písm. e) nebyl lokálně identifikován prováděcí předpis;
 - citační blok § 26 obsahuje jen označení paragrafu;
-- více než čtyřicet míst je výslovně označeno jako výkladová otázka bez opory v rozhodovací praxi.
+- více než čtyřicet míst je výslovně označeno jako výkladová otázka bez opory v místní judikatuře.
 
 Aktualizaci musí spustit zejména změna místního znění předpisu nebo prováděcí vyhlášky, uplynutí přechodné výjimky k 1. 1. 2035, doběh přechodných ustanovení zákona o JES, změna oceňovací vyhlášky, doplnění nebo nahrazení místní karty rozhodnutí, rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
 
 **Jak ji řešit.** Na konci každého výkladu veďte krátký stav poznání: ověřené pravidlo, použitý místní zdroj, otevřená otázka a událost vyžadující revizi. Tvrzení bez dohledatelného místního podkladu buď odstraňte, nebo je označte jako hypotézu; absenci rozhodnutí nikdy neformulujte jako ustálený právní závěr.
 
-**Místní opora.** [rejstřík místního korpusu](INDEX.md); [Stav poznání, kapitolová úplnost a aktualizační spouštěče](HLOUBKOVY-VYKLAD.md); [místní zásady](ZASADY.md); [místní modality](PRAVNI-MODALITY.md); místní judikatura zatím není (doplní se strojově)
+**Místní opora.** [rejstřík místního korpusu](INDEX.md); [Stav poznání, kapitolová úplnost a aktualizační spouštěče](HLOUBKOVY-VYKLAD.md); [místní zásady](ZASADY.md); [místní modality](PRAVNI-MODALITY.md); [judikatura/](judikatura/README.md) (1 karta, NS 25 Cdo 3811/2017)

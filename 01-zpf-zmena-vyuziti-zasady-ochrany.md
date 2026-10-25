@@ -169,6 +169,11 @@ Rozorání TTP bez souhlasu je přestupkem vlastníka nebo jiné osoby oprávně
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 3811/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/11231DFBA16D0C1AC12582F600267C2A?openDocument) — 29. 5. 2018, kat. A
+  > „Za škodu způsobenou před 1. 1. 2014 v důsledku porušení prevenční povinnosti k ochraně zemědělského půdního fondu (§ 3 odst. 1 zákona č. 334/1992 Sb.) odpovídá zemědělský podnikatel podle § 420 odst. 1 obč. zák"
+
 #### Obecná povinnost (odst. 1)
 
 Odstavec 1 (vložen zákonem č. 183/2024 Sb.) stanoví povinnost **každého** dbát o ochranu zemědělské půdy, zabezpečovat její hospodárné a účelné užívání a dbát, aby nedocházelo k jejímu znehodnocování poškozováním nebo znečišťováním. Adresátem není jen vlastník či uživatel, ale kdokoli, kdo může půdu ovlivnit (stavebník, provozovatel zařízení, dopravce). Samostatně sankcionována není; slouží jako obecné pravidlo, k němuž se vztahují konkrétní zákazy odst. 2, a jako jeden ze základů pro opatření k nápravě podle § 3c odst. 3 („porušením povinností uvedených v § 3“). Zda lze opatření k nápravě uložit pouze na základě odst. 1 bez porušení konkrétního zákazu, je výkladovou otázkou.
